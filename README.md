@@ -1,5 +1,12 @@
 # Breast Cancer Classification Project
-This repository contains code for a breast cancer classification project. The goal of this project is to determine whether a given input of breast cancer is either Benign or Malignant using various Machine Learning classifiers. The dataset used for this project is a public breast cancer dataset from Kaggle.
+This repository contains code for a breast cancer classification project using both MATLAB and Python. The goal of this project is to determine whether a given input of breast cancer is either Benign or Malignant using various Machine Learning classifiers. The dataset used for this project is a public breast cancer dataset from Kaggle.
+
+# MATLAB
+The MATLAB file Breast_Cancer_Detection.m implements the classifiers using the breast cancer dataset from Kaggle. It uses the same classifiers as the Python code.
+To run the MATLAB code, make sure you have MATLAB installed, and then open and run the script Breast_Cancer_Detection.m.
+To run the MATLAB code, you will need the following:
+MATLAB software (R2018b or later)
+Statistics and Machine Learning Toolbox
 
 # Dataset
 The dataset can be found in the "breast-cancer.csv" file. It contains features extracted from breast mass images and corresponding labels indicating whether the tumor is Benign or Malignant.
